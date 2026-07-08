@@ -58,3 +58,5 @@ Desenvolvido para a comunidade **TugaTech** - por [@DJPRMF](https://github.com/D
 Para mais dicas, análises e guias de tecnologia, visite: [tugatech.com.pt](https://tugatech.com.pt)
 
 **Licença:** Distribuído de forma aberta para a comunidade. Use por sua conta e risco.
+
+**Nota:** Qualquer issue ou tópico criado com referência ao nome "pouco original" ou "boring" para o script vale um café.
